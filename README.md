@@ -11,8 +11,6 @@ A web-based application for managing student enrollment records, using JsonPower
 - [Illustrations](#illustrations)
 - [Scope of Functionalities](#scope-of-functionalities)
 - [Examples of Use](#examples-of-use)
-- [Project Status](#project-status)
-- [Release History](#release-history)
 - [Sources](#sources)
 - [Other Information](#other-information)
 
